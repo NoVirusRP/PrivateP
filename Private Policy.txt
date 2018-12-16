@@ -1,0 +1,6 @@
+Things you should know about:
+
+- The only username and password you have to enter is just for this app. Its not needed to enter any other password or username.
+- The username and passwords are not used or shared by / with any other company or any other person.
+- Your username and password are not used for anything else than this application. Also your username and password only work for your device.
+- Your username and password are only saved to make it possible to login. There not saved for any other usages.
